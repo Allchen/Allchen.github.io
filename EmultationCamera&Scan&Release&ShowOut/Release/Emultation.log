@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  3DFont.cpp
+  C3DSModel.cpp
+  CameraDlg.cpp
+  CTargaImage.cpp
+  Emultation.cpp
+  EmultationDoc.cpp
+  EmultationView.cpp
+EmultationView.cpp(383): warning C4838: 从“int”转换到“GLfloat”需要收缩转换
+EmultationView.cpp(384): warning C4838: 从“int”转换到“GLfloat”需要收缩转换
+EmultationView.cpp(385): warning C4838: 从“int”转换到“GLfloat”需要收缩转换
+  HDL64E_Simulator.cpp
+  MainFrm.cpp
+  ModelDlg.cpp
+  ModelParameter.cpp
+  ScanDlg.cpp
+  正在生成代码
+  2155 of 2156 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    31 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Emultation.vcxproj -> C:\Users\Allchen\Desktop\EmultationCamera&Scan&Release&ShowOut\Release\Emultation.exe
